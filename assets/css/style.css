@@ -19,7 +19,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-/* removed h1*/
+/* Changes the color of seo*/
 .seo {
     color: #d9dcd6;
 }
@@ -32,7 +32,7 @@ body {
     font-size: 20px;
 }
 
-/*deleted .header div ul*/
+/*Creates inline bloack and margin within links*/
 
 .header div ul li {
     display: inline-block;
