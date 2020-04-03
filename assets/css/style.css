@@ -67,7 +67,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -102,7 +102,7 @@ h3 {
 }   
 
 /* consolidated content div section*/
-.content div {
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -112,11 +112,11 @@ h3 {
 }
 
 /* condensed 3 img code */
-.content div img {
+section img {
     max-height: 200px;
 }
 /*condensed h2 within contents*/
-.content div h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
