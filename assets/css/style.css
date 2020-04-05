@@ -84,17 +84,17 @@ main {
     background-color: #2589bd;
 }
 
-/* styled div elements inside benefits class*/
+/*changes text color in aside */
 .benefits div {
     margin-bottom: 32px;
     color: #ffffff
 }
-/*deleted benefit h3*/
+/*Aligns texts/creates margin*/
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/*styled img tag within benefits div */
+/*sets the image size sets the center */
 .benefits div img {
     display: block;
     margin: 10px auto;
@@ -111,11 +111,11 @@ section {
     color: #ffffff;   
 }
 
-/* condensed 3 img code */
+/* img size */
 section img {
     max-height: 200px;
 }
-/*condensed h2 within contents*/
+/*sets h2 title size*/
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
