@@ -85,7 +85,7 @@ main {
 }
 
 /*changes text color in aside */
-.benefits div {
+.benefits section {
     margin-bottom: 32px;
     color: #ffffff
 }
@@ -95,14 +95,14 @@ h3 {
     text-align: center;
 }
 /*sets the image size sets the center */
-.benefits div img {
+.benefits section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }   
 
 /* consolidated content div section*/
-section {
+.style {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -112,11 +112,11 @@ section {
 }
 
 /* img size */
-section img {
+.style img {
     max-height: 200px;
 }
 /*sets h2 title size*/
-section h2 {
+.style h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
